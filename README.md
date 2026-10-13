@@ -30,7 +30,7 @@ The knowledge base consists of four synthetic HR policy documents (14 pages) for
 ## Run
 1. Install [Ollama](https://ollama.com) and run `ollama pull qwen2.5:7b`
 2. `pip install -r requirements.txt`
-3. Open `06_RAG的使用.ipynb` and run all cells
+3. Open `policy_qa_rag.ipynb` and run all cells
 
 ## Limitations
 - Small evaluation set (42 questions), written by the same author as the documents
